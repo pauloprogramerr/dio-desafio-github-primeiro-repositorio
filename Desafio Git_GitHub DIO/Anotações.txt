@@ -1,0 +1,6 @@
+Aulas concluídas.
+
+* Mentoria #1 Aula Inaugural - Bootcamp Cognizant
+* Logica de programação essencial
+* Estrutura de dados e algoritmos
+* Introdução ao Git e ao GitHub 
