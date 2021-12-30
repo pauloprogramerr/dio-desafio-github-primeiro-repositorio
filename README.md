@@ -21,6 +21,6 @@
 |----------|:-------------:|
 | 1. Compras no supermercado |  [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Orderna%C3%A7%C3%A3o%20e%20filtros/ComprasSupermercado.java) |
 | 2. Fila do banco | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Orderna%C3%A7%C3%A3o%20e%20filtros/FilaBanco.java)   |
-| 3. Gincana no acampamento | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Orderna%C3%A7%C3%A3o%20e%20filtros/GincanaAcampamento.java) |
+| 3. Gincana no acampamento | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Orderna%C3%A7%C3%A3o%20e%20filtros/ScavengerHuntAtCamp.java) |
 | 4. Numeros pares e ímpares |    [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Orderna%C3%A7%C3%A3o%20e%20filtros/ParesImpares.java)   |
 | 5. Uniforme fim do ano | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Orderna%C3%A7%C3%A3o%20e%20filtros/UniformeFimAno.java) |
