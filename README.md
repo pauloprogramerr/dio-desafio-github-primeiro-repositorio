@@ -29,8 +29,8 @@
 
 | Desafio   |      Códigos      |
 |----------|:-------------:|
-| 1. Ordenação de palavras por tamanho |  [Código]() |
-| 2. Encontre a maior substring | [Código]()   |
-| 3. Validador de senhas com requisitos | [Código]() |
-| 4. Pedra, Papel, Tesoura, Lagarto e Spock |    [Código]()   |
-| 5. Atalhos para o Weblogger Brasil | [Código]() |
+| 1. Ordenação de palavras por tamanho |  [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/OrderWords.java) |
+| 2. Encontre a maior substring | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/MaiorSubstring.java)   |
+| 3. Validador de senhas com requisitos | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/ValidadorSenha.java) |
+| 4. Pedra, Papel, Tesoura, Lagarto e Spock |    [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/JoKenPo.java)   |
+| 5. Atalhos para o Weblogger Brasil | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/WebBlogBrazil.java) |
