@@ -24,3 +24,13 @@
 | 3. Gincana no acampamento | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Orderna%C3%A7%C3%A3o%20e%20filtros/ScavengerHuntAtCamp.java) |
 | 4. Numeros pares e ímpares |    [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Orderna%C3%A7%C3%A3o%20e%20filtros/ParesImpares.java)   |
 | 5. Uniforme fim do ano | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Orderna%C3%A7%C3%A3o%20e%20filtros/UniformeFimAno.java) |
+
+### Introdução a Busca e Substituição em Java
+
+| Desafio   |      Códigos      |
+|----------|:-------------:|
+| 1. Ordenação de palavras por tamanho |  [Código]() |
+| 2. Encontre a maior substring | [Código]()   |
+| 3. Validador de senhas com requisitos | [Código]() |
+| 4. Pedra, Papel, Tesoura, Lagarto e Spock |    [Código]()   |
+| 5. Atalhos para o Weblogger Brasil | [Código]() |
