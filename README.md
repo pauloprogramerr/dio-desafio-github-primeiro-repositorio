@@ -6,8 +6,9 @@
 
 Fundamentos Aritimétiicos em Java  
 ---------------------------------------------
-1. Analise de numeros            |  [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Fundamentos%20Aritimeticos/AnaliseNumeros.java)
-2. Contagem de cédulas           |  [Código]()
-3. Consumo do automóvel          |  [Código]()
-4. Exibindo números pares        |  [Código]()
-5. Números Positivos e negativos |  [Código]()
+1. Analise de numeros               |  [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Fundamentos%20Aritimeticos/AnaliseNumeros.java)
+2. Contagem de cédulas              |  [Código]()
+3. Consumo do automóvel             |  [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Fundamentos%20Aritimeticos/ConsumoAutomovel.java)
+4. Exibindo números pares           |  [Código]()
+5. Números Positivos e negativos    |  [Código]()
+---------------------------------------------
