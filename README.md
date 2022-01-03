@@ -36,7 +36,7 @@
 | 5. Atalhos para o Weblogger Brasil | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/WebBlogBrazil.java) |
 
 ### Projetos
-##### Desafio criando um banco de dados digital com java oo, com alguns métodos, classes e validações. ainda em implementação 
+##### Desafio criando um banco de dados digital com java oo, com alguns métodos, classes e validações. Ainda em implementação 
 
 | Desafio   |      Códigos      |
 |----------|:-------------:|
