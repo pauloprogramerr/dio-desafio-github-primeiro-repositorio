@@ -34,3 +34,11 @@
 | 3. Validador de senhas com requisitos | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/ValidadorSenha.java) |
 | 4. Pedra, Papel, Tesoura, Lagarto e Spock |    [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/JoKenPo.java)   |
 | 5. Atalhos para o Weblogger Brasil | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Introdu%C3%A7%C3%A3o%20a%20Busca%20e%20Substitui%C3%A7%C3%A3o%20em%20Java/WebBlogBrazil.java) |
+
+### Projetos
+##### Desafio criando um banco de dados digital com java oo, com alguns métodos, classes e validações. ainda em implementação 
+
+| Desafio   |      Códigos      |
+|----------|:-------------:|
+| 1. Criando um Banco Digital com Java e Orientação a Objetos |  [Código]() |
+|           |               |
