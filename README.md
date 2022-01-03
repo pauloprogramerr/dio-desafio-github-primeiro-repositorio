@@ -6,9 +6,9 @@
 
 ### Fundamentos Aritimétiicos em Java
 
-| Desafio   |      Códigos      |
-|----------|:-------------:|
-| 1. Analise de numeros |  [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Fundamentos%20Aritimeticos/AnaliseNumeros.java) |
+| Desafio   |      Códigos      | Projetos | Códigos
+|----------|:-------------:|:----------:|----------:|
+| 1. Analise de numeros |  [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Fundamentos%20Aritimeticos/AnaliseNumeros.java) | 1. banco digital com java orientada a objetos |[Código]()
 | 2. Contagem de cédulas | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Fundamentos%20Aritimeticos/ContagemCedula.java)   |
 | 3. Consumo do automóvel | [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Fundamentos%20Aritimeticos/ConsumoAutomovel.java) |
 | 4. Exibindo números pares |    [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Fundamentos%20Aritimeticos/ExibindoNumeroPares.java)   |
