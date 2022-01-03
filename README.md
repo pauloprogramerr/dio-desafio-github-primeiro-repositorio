@@ -4,8 +4,7 @@
 
 # Desafios Java Developer DIO
 
-### Fundamentos Aritimétiicos em Java           
-
+### Fundamentos Aritimétiicos em Java  
 | Desafio   |      Códigos      | Projetos | Códigos
 |----------|:-------------:|:----------:|----------:|
 | 1. Analise de numeros |  [Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/blob/main/Desafio%20Git_GitHub%20DIO/java/varios%20desafios/Fundamentos%20Aritimeticos/AnaliseNumeros.java) | 1. banco digital com java orientada a objetos |[Código](https://github.com/pauloprogramerr/dio-desafio-github-primeiro-repositorio/tree/main/Criando%20um%20Banco%20Digital%20com%20Java%20e%20Orienta%C3%A7%C3%A3o%20a%20Objetos/src/main/java/com/dio/desafio/oo)
