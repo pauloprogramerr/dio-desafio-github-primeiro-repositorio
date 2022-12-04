@@ -1,9 +1,9 @@
-## Desafios e projetos Digital Inovation, Java Developer, TQI etc...  
+### Desafios e projetos Digital Inovation, Java Developer, TQI etc...  
 #### Desafio criando um banco de dados digital com java oo, com alguns métodos, classes e validações. 
 **Ainda em implementação "melhorias"** 
 #### Criando meu primeiro repositório da [DIO Cognizant-Java-Developer](https://digitalinnovation.one/)
 
-# Desafios Java Developer DIO
+### Desafios Java Developer DIO
 
 ### Fundamentos Aritimétiicos em Java  
 | Desafio   |      Códigos      | Projetos | Códigos
